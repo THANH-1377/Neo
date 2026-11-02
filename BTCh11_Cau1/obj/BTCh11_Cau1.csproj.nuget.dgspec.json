@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Do Nhat Thanh\\BTCh11_Cau1\\BTCh11_Cau1.csproj": {}
+    "C:\\Github\\Neo\\BTCh11_Cau1\\BTCh11_Cau1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Do Nhat Thanh\\BTCh11_Cau1\\BTCh11_Cau1.csproj": {
+    "C:\\Github\\Neo\\BTCh11_Cau1\\BTCh11_Cau1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Do Nhat Thanh\\BTCh11_Cau1\\BTCh11_Cau1.csproj",
+        "projectUniqueName": "C:\\Github\\Neo\\BTCh11_Cau1\\BTCh11_Cau1.csproj",
         "projectName": "BTCh11_Cau1",
-        "projectPath": "C:\\Users\\Do Nhat Thanh\\BTCh11_Cau1\\BTCh11_Cau1.csproj",
+        "projectPath": "C:\\Github\\Neo\\BTCh11_Cau1\\BTCh11_Cau1.csproj",
         "packagesPath": "C:\\Users\\Do Nhat Thanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Do Nhat Thanh\\BTCh11_Cau1\\obj\\",
+        "outputPath": "C:\\Github\\Neo\\BTCh11_Cau1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
